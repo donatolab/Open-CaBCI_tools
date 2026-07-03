@@ -44,7 +44,7 @@ def generate_graph_from_connected_nodes(cm):
     
     
     if True:
-        G = nx.from_numpy_matrix(adjacency_matrix, create_using=nx.MultiGraph)
+        G = nx.from_numpy_array(adjacency_matrix, create_using=nx.MultiGraph)
     
     else:
         rows, cols = np.where(adjacency_matrix == 1)

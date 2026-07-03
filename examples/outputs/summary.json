@@ -1,0 +1,16 @@
+{
+  "cells": 48,
+  "frames": 3000,
+  "sample_rate_hz": 30.947,
+  "duration_seconds": 96.93992955698452,
+  "binarization_threshold_std": 2.0,
+  "active_samples": 7779,
+  "active_fraction": 0.05402083333333333,
+  "median_events_per_cell": 149.0,
+  "pca_pc1_variance_fraction": 0.19582627713680267,
+  "pca_pc2_variance_fraction": 0.12389957159757614,
+  "median_pairwise_correlation": -0.039774321019649506,
+  "network_threshold": 0.15,
+  "network_nodes": 47,
+  "network_edges": 163
+}
